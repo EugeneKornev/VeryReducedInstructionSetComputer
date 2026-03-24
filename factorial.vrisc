@@ -1,10 +1,10 @@
 Mov R0 5
-Mov R1 1    
-Mov Jmpz 6  
+Mov R1 1  
+Jmpz 6 
               
-Mul R1 R0   
-Sub R0 1    
-Jmp 2       
+Mul R1 R0  
+Sub R0 1   
+Jmp 2      
 
 Mov R0 R1
 
